@@ -31,5 +31,7 @@ Especializado en Hacking Ético, auditorías de seguridad y administración de i
 [![Webpage](https://img.shields.io/badge/Webpage-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://luyop.com/)
 
 ---
-* **Academic:** Master Internacional en Ciberseguridad (UCAM / Campus Internacional en Ciberseguridad).
-* **Focus:** Automatización de Pentesting mediante Agentes de IA y mitigación proactiva de vulnerabilidades.
+
+### 🔬 Current Research
+ * 🎓 **Academic:** Master Internacional en Ciberseguridad (UCAM / Campus Internacional en Ciberseguridad).
+ * 🔍 **Focus:** Automatización de Pentesting mediante Agentes de IA y mitigación proactiva de vulnerabilidades.
