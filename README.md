@@ -44,7 +44,7 @@ Analista de Sistemas y Especialista en Ciberseguridad con más de 10 años de tr
 ### 🖥️ Systems & Infrastructure
 * ![Linux](https://img.shields.io/badge/Linux-00FFFF?style=for-the-badge&logo=linux&logoColor=black)
 * ![Windows Server](https://img.shields.io/badge/Windows_Server-00FFFF?style=for-the-badge&logo=microsoft&logoColor=black)
-* ![Active Directory](https://img.shields. ://img.shields.io/badge/Active_Directory-00FFFF?style=for-the-badge&logo=windows&logoColor=black)
+* ![Active Directory](https://img.shields.io://img.shields.io/badge/Active_Directory-00FFFF?style=for-the-badge&logo=windows&logoColor=black)
 * ![Redes Cisco (CCNA)](https://img.shields.io/badge/Redes_Cisco_CCNA-00FFFF?style=for-the-badge&logo=cisco&logoColor=black)
 * ![AWS Services](https://img.shields.io/badge/AWS_Services-00FFFF?style=for-the-badge&logo=amazon-aws&logoColor=black)
 
@@ -68,7 +68,7 @@ Analista de Sistemas y Especialista en Ciberseguridad con más de 10 años de tr
 * **Capacitación Técnica:** Formación de equipos en mejores prácticas de seguridad.
 
 ## 📊 GitHub Activities
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=cyanical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisyapura&show_icons=true&theme=cyanical&hide_border=true)
 
 ---
 * **Academic:** Master Internacional en Ciberseguridad (UCAM / Campus Internacional en Ciberseguridad).
