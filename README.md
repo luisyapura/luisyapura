@@ -26,10 +26,6 @@ Networking: Cisco CCNA | Network Auditing
 
 🔍 Investigación en seguridad ofensiva y automatización de procesos de auditoría.
 
-# 🛡️ Senior Systems Analyst & Cybersecurity Specialist
-
-Analista de Sistemas y Especialista en Ciberseguridad con más de 10 años de trayectoria en hacking ético, auditorías de seguridad y administración de infraestructuras críticas. Actualmente enfocado en la investigación académica y técnica a través del **Máster Internacional de Ciberseguridad** (UCAM / Campus Internacional en Ciberseguridad), especializándome en la mitigación proactiva de vulnerabilidades y respuesta a incidentes.
-
 ---
 
 ## 🛠️ Technical Skills
@@ -43,8 +39,8 @@ Analista de Sistemas y Especialista en Ciberseguridad con más de 10 años de tr
 
 ### 🖥️ Systems & Infrastructure
 * ![Linux](https://img.shields.io/badge/Linux-00FFFF?style=for-the-badge&logo=linux&logoColor=black)
-* ![Windows Server](https://img.shields.io/badge/Windows_Server-00FFFF?style=for-the-badge&logo=microsoft&logoColor=black)
-* ![Active Directory](https://img.shields.io://img.shields.io/badge/Active_Directory-00FFFF?style=for-the-badge&logo=windows&logoColor=black)
+* ![Windows Server]
+* ![Active Directory]
 * ![Redes Cisco (CCNA)](https://img.shields.io/badge/Redes_Cisco_CCNA-00FFFF?style=for-the-badge&logo=cisco&logoColor=black)
 * ![AWS Services](https://img.shields.io/badge/AWS_Services-00FFFF?style=for-the-badge&logo=amazon-aws&logoColor=black)
 
