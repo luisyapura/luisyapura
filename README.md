@@ -39,8 +39,8 @@ Networking: Cisco CCNA | Network Auditing
 
 ### 🖥️ Systems & Infrastructure
 * ![Linux](https://img.shields.io/badge/Linux-00FFFF?style=for-the-badge&logo=linux&logoColor=black)
-* ![Windows Server]
-* ![Active Directory]
+* ![Active Directory](https://img.shields.io://img.shields.io/badge/ActiveDirectory-00FFFF?style=for-the-badge&logo=windows&logoColor=black)
+* ![Windows Server](https://img.shields.io/badge/Windows_Server-00FFFF?style=for-the-badge&logo=microsoft&logoColor=black)
 * ![Redes Cisco (CCNA)](https://img.shields.io/badge/Redes_Cisco_CCNA-00FFFF?style=for-the-badge&logo=cisco&logoColor=black)
 * ![AWS Services](https://img.shields.io/badge/AWS_Services-00FFFF?style=for-the-badge&logo=amazon-aws&logoColor=black)
 
