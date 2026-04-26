@@ -1,4 +1,4 @@
-## 🛡️ Cybersecurity Engineer | Pentester | PhD Candidate
+## 🛡️ Cybersecurity Engineer | Pentester 
 
 Especializado en Hacking Ético, auditorías de seguridad y administración de infraestructuras críticas (Linux/Windows). Actualmente profundizando en la intersección de la Inteligencia Artificial aplicada al Pentesting a través de un Máster Internacional con la UCAM y el Campus Internacional de Ciberseguridad.
 
