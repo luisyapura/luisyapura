@@ -16,8 +16,8 @@ Especializado en Hacking Ético, auditorías de seguridad y administración de i
 ### 🛢️ Databases & Virtualization
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)![SQL Server](https://img.shields.io/badge/SQL_Server-00FFFF?style=for-the-badge&logo=microsoft-sql-server&logoColor=black)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)![Oracle DB](https://img.shields.io/badge/Oracle_DB-00FFFF?style=for-the-badge&logo=oracle&logoColor=black)![VMware](https://img.shields.io/badge/VMware-000000?style=for-the-badge&logo=vmware&logoColor=white)![VirtualBox](https://img.shields.io/badge/VirtualBox-00FFFF?style=for-the-badge&logo=virtualbox&logoColor=black)
 
-### ⌨️ Programming & Scripting
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)![PHP](https://img.shields.io/badge/PHP-00FFFF?style=for-the-badge&logo=php&logoColor=black)![Pascal](https://img.shields.io/badge/Pascal-000000?style=for-the-badge&logo=delphi&logoColor=white)![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-00FFFF?style=for-the-badge&logo=gnu-bash&logoColor=black)
+### 🤖 AI, Programing & Automation
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)![Ollama](https://img.shields.io/badge/Local_LLMs-00FFFF?style=for-the-badge&logo=ollama&logoColor=black)![Bash](https://img.shields.io/badge/Bash_Scripting-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)![PHP](https://img.shields.io/badge/PHP-00FFFF?style=for-the-badge&logo=php&logoColor=black)![Pascal](https://img.shields.io/badge/Pascal-000000?style=for-the-badge&logo=delphi&logoColor=white)
 
 ---
 
@@ -36,6 +36,9 @@ Especializado en Hacking Ético, auditorías de seguridad y administración de i
 
 ---
 
-### 🔬 Current Research
- * 🎓 **Academic:** Master Internacional en Ciberseguridad (UCAM / Campus Internacional en Ciberseguridad).
- * 🔍 **Focus:** Automatización de Pentesting mediante Agentes de IA y mitigación proactiva de vulnerabilidades.
+### 🔬 Current Research & Education
+* **Master’s Degree:** Máster Internacional en Ciberseguridad (UCAM - Campus Internacional en Ciberseguridad).
+* **Thesis Project:** *"Diseño de un Sistema de Pentesting basado en Inteligencia Artificial"* – Desarrollo de agentes autónomos especializados.
+* **Investigation:** Desarrollo de sistemas de mitigación proactiva y monitorización mediante agentes de IA.
+* **AI Local:** Implementación y gestión de modelos (Ollama, LM Studio, Granite, Qwen) en hardware local para auditorías y pedagogía.
+* **Objetivo PhD:** Transición hacia investigación doctoral.
