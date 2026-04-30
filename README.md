@@ -5,7 +5,7 @@
 <h2 align="center">🛡️ Cybersecurity Engineer | Pentester</h2>
 
 <p align="center">
-Especialista en Seguridad Ofensiva y Administración de Infraestructuras Críticas con más de 10 años de trayectoria. Enfoque actual en la arquitectura de sistemas de Pentesting Autónomo mediante Agentes de IA y el despliegue de modelos de lenguaje locales (LLMs) para la optimización de auditorías técnicas.
+Especialista en Seguridad Ofensiva y Administración de Infraestructuras Críticas con más de 15 años de trayectoria. Enfoque actual en la arquitectura de sistemas de Pentesting Autónomo mediante Agentes de IA y el despliegue de modelos de lenguaje locales (LLMs) para la optimización de auditorías técnicas.
 </p>
 
 <h3 align="center">🔒 Security Operations</h3>
