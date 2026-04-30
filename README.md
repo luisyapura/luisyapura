@@ -65,7 +65,7 @@ Especialista en Seguridad Ofensiva y Administración de Infraestructuras Crític
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-yapura/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.credly.com/users/luis-yapura"><img src="https://img.shields.io/badge/Credly-00FFFF?style=for-the-badge&logo=badgr&logoColor=black"></a>
-  <a href="mailto:yapura.luis@proton.me"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:yapura.luis@proton.me"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=white"></a>
   <a href="https://luyop.com/"><img src="https://img.shields.io/badge/Webpage-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=black"></a>
 </p>
 
@@ -78,4 +78,3 @@ Especialista en Seguridad Ofensiva y Administración de Infraestructuras Crític
   <b>Investigation:</b> Desarrollo de sistemas de mitigación proactiva y monitorización mediante agentes de IA.<br>
   <b>AI Local:</b> Gestión de modelos (Ollama, Granite, Qwen) en hardware local (Ryzen 9 9950X3D / RTX 5080).<br>
   <b>Objetivo PhD:</b> Transición hacia investigación doctoral.
-</p>
