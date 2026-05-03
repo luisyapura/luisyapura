@@ -76,5 +76,5 @@ Especialista en Seguridad Ofensiva y Administración de Infraestructuras Crític
   <b>Master’s Degree:</b> Máster Internacional en Ciberseguridad (UCAM - Campus Internacional en Ciberseguridad).<br>
   <b>Thesis Project:</b> "Diseño de un Sistema de Pentesting basado en Inteligencia Artificial" – Desarrollo de agentes autónomos especializados.<br>
   <b>Investigation:</b> Desarrollo de sistemas de mitigación proactiva y monitorización mediante agentes de IA.<br>
-  <b>AI Local:</b> Gestión de modelos (Ollama, Granite, Qwen) en hardware local (Ryzen 9 9950X3D / RTX 5080).<br>
+  <b>AI Local:</b> Gestión de modelos (Ollama, Granite, Qwen) en hardware local.<br>
   <b>Objetivo PhD:</b> Transición hacia investigación doctoral.
